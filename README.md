@@ -22,7 +22,7 @@ Pull requests are higly welcome!
 
 5 = -2+0*1+7
 
-6 = 2*0-+7
+6 = 2*0-1+7
 
 7 = 
 
