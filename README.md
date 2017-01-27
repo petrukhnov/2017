@@ -24,7 +24,7 @@ Pull requests are higly welcome!
 
 6 = 2*0-1+7
 
-7 = 2*0+1+7
+7 = 2*0*1+7
 
 8 = 
 
