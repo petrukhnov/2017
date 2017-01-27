@@ -6,7 +6,7 @@ Numbers should be in same order (2 0 1 7). You could add any number of algebra s
 
 Example of allowed symbols: -*^!(
 
-Different combinations for same value, will be separated by semicolumn. Spaces are optional.
+Different combinations for same value, will be separated by semicolon. Spaces are optional.
 
 Pull requests are higly welcome! 
 
